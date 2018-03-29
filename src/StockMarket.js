@@ -1,0 +1,1 @@
+const Asset   = require('./Asset')
