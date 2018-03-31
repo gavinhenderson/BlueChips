@@ -4,7 +4,7 @@
   "description": "A package to simulate your own stock market",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha"
+    "test": "echo \"This package has no tests\""
   },
   "repository": {
     "type": "git",
