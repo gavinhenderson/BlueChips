@@ -1,6 +1,6 @@
 {
   "name": "bluechips",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to simulate your own stock market",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,12 @@
   "keywords": [
     "stock",
     "market",
-    "simulate"
+    "simulate",
+    "blue",
+    "chips",
+    "gamble",
+    "timer",
+    "broker"
   ],
   "author": "Gavin Henderson <gavin.henderson@hotmail.co.uk> (https://gavinhenderson.me)",
   "license": "ISC",
