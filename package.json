@@ -1,6 +1,6 @@
 {
   "name": "bluechips",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A package to simulate your own stock market",
   "main": "index.js",
   "scripts": {
